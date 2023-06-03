@@ -12,7 +12,10 @@ For that, I have to deal with the 42's norme and a small list of functions: <br>
 * **free**<br>
 * **strerror**<br>
 * **basename**<br><br>
-And I choosed to add **access** to check the accessibility of the file
+And I choosed to add **access** to check the accessibility of the file<br>
+#### Compilation
+* `make`
+* `./hexdump [flag] [file1] [file2] ... [fileN]`
 
 ### Normal mode
 <img src="./.picture/normal_mode.jpg" alt="Alt text" title="normal_mode">
